@@ -12,7 +12,7 @@ Each study has Overview, Origins, Visual vocabulary, Examples, and Construction 
 
 The desktop header is an original CSS interpretation of Apple's 2001 silver tabs, pinstripes, inset controls, and blue selected states. The reading layout borrows the calm typography and clear hierarchy of typography-learning. A compact mobile navigation keeps text readable. The user explicitly requested these material-looking treatments; they are intentional exceptions to generic modern styling defaults.
 
-All SVG study illustrations are original educational compositions, not historical screenshots. Selected externally hosted Web Design Museum screenshots have captions and direct source links. They are not bundled or claimed as reusable assets. External images have a fallback message and archive link. Dates distinguish historical roots from later digital interpretations; labels include movements, eras, moods, and techniques rather than presenting them as one taxonomy.
+All SVG study illustrations are original educational compositions, not historical screenshots. Selected Web Design Museum screenshots are included locally as attributed educational references, with captions and direct source links. They remain copyrighted by their respective creators and are not claimed as reusable assets. Dates distinguish historical roots from later digital interpretations; labels include movements, eras, moods, and techniques rather than presenting them as one taxonomy.
 
 ## Source and workflow
 
@@ -35,7 +35,7 @@ Primary reference collections:
 - https://www.webdesignmuseum.org/gallery/apple-2001
 - https://pythonidaer.github.io/typography-learning/
 
-Individual lessons link to specific sources and distinguish original practice exercises from historical references. No source article is reproduced in full. No analytics, accounts, data collection, or externally loaded JavaScript is used.
+Individual lessons link to specific sources and distinguish original practice exercises from historical references. No source article is reproduced in full. The four historical screenshot files in dist/assets/references/ are credited study references, not original illustrations or open-licensed assets. No analytics, accounts, data collection, or externally loaded JavaScript is used.
 
 ## Verification
 
