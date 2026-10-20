@@ -1,0 +1,1070 @@
+[
+  {
+    "id": "victorian",
+    "name": "Victorian",
+    "group": "Print foundations",
+    "era": "19th century",
+    "year": 1837,
+    "kind": "Period and revival traditions",
+    "origin": "Victorian print brought together many revival styles, ornate advertising, and expanding production methods. Treat the period as a family of approaches, rather than a single mandatory palette.",
+    "traits": [
+      "Layered serif display lettering",
+      "Engraved ornaments and patterned grounds",
+      "Formal framing and dense information"
+    ],
+    "build": [
+      "Draw a decorative border as SVG; keep its ornament separate from the text.",
+      "Combine a restrained reading face with one ornate heading treatment. Use a scanned or painted paper texture sparingly."
+    ],
+    "exercise": "Frame one event announcement with original ornament. Remove half the decoration and compare what remains legible.",
+    "source": "https://styleshift.design/styles/victorian",
+    "examples": [
+      [
+        "Victorian history and examples",
+        "https://styleshift.design/styles/victorian"
+      ],
+      [
+        "William Morris: books and typography",
+        "https://www.vam.ac.uk/articles/william-morris-text"
+      ]
+    ],
+    "colors": [
+      "#f3ead7",
+      "#2b3129",
+      "#85553b"
+    ]
+  },
+  {
+    "id": "art-nouveau",
+    "name": "Art Nouveau",
+    "group": "Print foundations",
+    "era": "Around 1890–1910",
+    "year": 1890,
+    "kind": "Historical movement",
+    "origin": "Art Nouveau linked applied art, illustration, architecture, and lettering through flowing natural forms. On a website, its curves can guide attention around a clear content structure.",
+    "traits": [
+      "Plant-like curves and branching lines",
+      "Integrated decorative lettering",
+      "Tall panels and organic framing"
+    ],
+    "build": [
+      "Draw flowing paths and botanical ornaments in Inkscape. Export reusable SVG frames.",
+      "Place readable HTML text inside the frame; preserve generous room around elaborate letterforms."
+    ],
+    "exercise": "Draw one stem that branches into three section dividers. Reuse the same line weight and curve rhythm.",
+    "source": "https://styleshift.design/styles/art-nouveau",
+    "examples": [
+      [
+        "Art Nouveau origins and visual examples",
+        "https://styleshift.design/styles/art-nouveau"
+      ]
+    ],
+    "colors": [
+      "#eee9cc",
+      "#254d43",
+      "#aa733d"
+    ]
+  },
+  {
+    "id": "art-deco",
+    "name": "Art Deco",
+    "group": "Print foundations",
+    "era": "1920s–1930s influences",
+    "year": 1925,
+    "kind": "Historical design movement",
+    "origin": "Art Deco connects decorative craft with geometric modernity. Its stepped silhouettes and organized symmetry offer a different kind of richness from botanical ornament.",
+    "traits": [
+      "Stepped and radiating geometry",
+      "Symmetry and strong central axes",
+      "Fine borders with contrasting display type"
+    ],
+    "build": [
+      "Construct a small library of stepped corners, fans, and repeated lines as SVG.",
+      "Use a clear central grid and carefully spaced display lettering; test all fine rules at mobile sizes."
+    ],
+    "exercise": "Make a title frame from rectangles and straight lines only. Compare a centered and an asymmetric arrangement.",
+    "source": "https://styleshift.design/styles/art-deco",
+    "examples": [
+      [
+        "Art Deco principles and examples",
+        "https://styleshift.design/styles/art-deco"
+      ]
+    ],
+    "colors": [
+      "#142e32",
+      "#f5e8bd",
+      "#c19b55"
+    ]
+  },
+  {
+    "id": "bauhaus",
+    "name": "Bauhaus",
+    "group": "Print foundations",
+    "era": "School active 1919–1933",
+    "year": 1919,
+    "kind": "School and design influence",
+    "origin": "The Bauhaus brought art, craft, and industrial production into a shared educational project. Its legacy is broader than red circles and yellow triangles: structure and making matter.",
+    "traits": [
+      "Geometric construction",
+      "Asymmetric balance",
+      "Type and image aligned to a deliberate structure"
+    ],
+    "build": [
+      "Build an asymmetric CSS grid with a small set of geometric SVG shapes.",
+      "Use size and position to establish hierarchy before adding color. Make every decorative shape earn its place."
+    ],
+    "exercise": "Arrange one heading, one paragraph, and three shapes. Make a second composition with identical content and a different balance.",
+    "source": "https://styleshift.design/styles/bauhaus",
+    "examples": [
+      [
+        "Bauhaus history and design vocabulary",
+        "https://styleshift.design/styles/bauhaus"
+      ]
+    ],
+    "colors": [
+      "#f3eee1",
+      "#161d25",
+      "#d2392b"
+    ]
+  },
+  {
+    "id": "swiss",
+    "name": "Swiss International",
+    "group": "Print foundations",
+    "era": "1950s–1960s prominence",
+    "year": 1950,
+    "kind": "Historical graphic-design movement",
+    "origin": "Swiss International typography developed a systematic approach to visual communication. Grid relationships, photographic material, and clear information hierarchy are more useful lessons than copying one typeface.",
+    "traits": [
+      "Consistent alignment and modular grids",
+      "Asymmetric sans-serif typography",
+      "Contrast through scale and spacing"
+    ],
+    "build": [
+      "Define columns, gutters, and a type scale in CSS. Align captions and images to the same underlying edges.",
+      "Use a few weights and inspect line breaks. Let empty space separate groups before adding borders."
+    ],
+    "exercise": "Set a concert poster in two columns using only type, one photograph, and one accent. Explain every alignment.",
+    "source": "https://styleshift.design/styles/swiss-international",
+    "examples": [
+      [
+        "Swiss International history and specimens",
+        "https://styleshift.design/styles/swiss-international"
+      ],
+      [
+        "Typography vocabulary",
+        "https://pythonidaer.github.io/typography-learning/vocabulary.html"
+      ]
+    ],
+    "colors": [
+      "#f5f4ef",
+      "#171717",
+      "#d52b27"
+    ]
+  },
+  {
+    "id": "pop-art",
+    "name": "Pop Art",
+    "group": "Print foundations",
+    "era": "1950s–1960s roots",
+    "year": 1955,
+    "kind": "Art movement and graphic influence",
+    "origin": "Pop Art brought mass-media imagery and everyday commercial culture into art. Digital interpretations often borrow repetition and graphic punch, but those visual effects are only part of its context.",
+    "traits": [
+      "Repeated imagery",
+      "Halftone dots and flat color areas",
+      "Abrupt changes of scale"
+    ],
+    "build": [
+      "Make a halftone pattern as a tiled SVG and crop an original photograph into repeated panels.",
+      "Keep functional labels clear when lettering becomes oversized or highly expressive."
+    ],
+    "exercise": "Repeat one original object image four times. Change only its palette and observe how its mood shifts.",
+    "source": "https://styleshift.design/styles/pop-art",
+    "examples": [
+      [
+        "Pop Art context and visual vocabulary",
+        "https://styleshift.design/styles/pop-art"
+      ]
+    ],
+    "colors": [
+      "#ffe12e",
+      "#142a54",
+      "#e43e63"
+    ]
+  },
+  {
+    "id": "memphis",
+    "name": "Memphis / Postmodern",
+    "group": "Print foundations",
+    "era": "1980s origins",
+    "year": 1981,
+    "kind": "Design movement and influence",
+    "origin": "Memphis challenged restrained modernist taste with playful patterns, unusual combinations, and emphatic forms. A web adaptation can keep that energy while giving information a stable structure.",
+    "traits": [
+      "Squiggles and contrasting patterns",
+      "Unexpected geometric combinations",
+      "Deliberately lively color relationships"
+    ],
+    "build": [
+      "Create two repeatable SVG patterns and a small shape vocabulary.",
+      "Place them around a conventional content layout. Use pattern density to support, rather than obscure, hierarchy."
+    ],
+    "exercise": "Design a section with one pattern, two shapes, and three colors. Test whether the main action is still immediately obvious.",
+    "source": "https://styleshift.design/styles/memphis",
+    "examples": [
+      [
+        "Memphis origins and examples",
+        "https://styleshift.design/styles/memphis"
+      ]
+    ],
+    "colors": [
+      "#ffd9e5",
+      "#24224e",
+      "#386fbb"
+    ]
+  },
+  {
+    "id": "gothic",
+    "name": "Gothic",
+    "group": "Print foundations",
+    "era": "Medieval roots; later revivals",
+    "year": 1150,
+    "kind": "Historical influence and contemporary mood",
+    "origin": "Gothic architecture and lettering have long histories; a modern dark Gothic interface is a later interpretation. Pointed forms, vertical emphasis, and ornamental lettering do not require an unreadable page.",
+    "traits": [
+      "Pointed arches and vertical rhythm",
+      "Dark grounds with pale highlights",
+      "Ornate display lettering"
+    ],
+    "build": [
+      "Draw pointed frames as SVG and prepare a restrained stone or paper texture.",
+      "Reserve elaborate lettering for short headings, with a clear reading face for descriptions and controls."
+    ],
+    "exercise": "Make an original pointed-arch frame for a project title. Test its silhouette in one color before texturing it.",
+    "source": "https://styleshift.design/styles/gothic",
+    "examples": [
+      [
+        "Gothic influences and digital interpretation",
+        "https://styleshift.design/styles/gothic"
+      ]
+    ],
+    "colors": [
+      "#17151d",
+      "#e9e4d6",
+      "#82718e"
+    ]
+  },
+  {
+    "id": "editorial",
+    "name": "Editorial",
+    "group": "Contemporary directions",
+    "era": "Print roots; ongoing web use",
+    "year": 1900,
+    "kind": "Layout approach",
+    "origin": "Editorial design organizes stories, images, and supporting information. Web editorial layouts adapt publishing practices to fluid screens, links, and changing amounts of content.",
+    "traits": [
+      "Clear story hierarchy",
+      "Captions, rules, and controlled measures",
+      "Type and photography composed together"
+    ],
+    "build": [
+      "Use CSS grid for the story structure and set a comfortable paragraph measure.",
+      "Create reusable title, body, caption, and pull-quote roles. Keep the mobile reading order logical."
+    ],
+    "exercise": "Lay out a project case study with a title, a lead paragraph, two images, and captions. Explain the reading order.",
+    "source": "https://pythonidaer.github.io/typography-learning/resources.html",
+    "examples": [
+      [
+        "Choosing Type roadmap",
+        "https://pythonidaer.github.io/typography-learning/roadmap/choosing-type.html"
+      ],
+      [
+        "Print-to-web typography reading path",
+        "https://pythonidaer.github.io/typography-learning/resources.html#history"
+      ]
+    ],
+    "colors": [
+      "#f4efe5",
+      "#292521",
+      "#9b3b2e"
+    ]
+  },
+  {
+    "id": "minimal",
+    "name": "Minimal",
+    "group": "Contemporary directions",
+    "era": "Early 2000s web movement; earlier art roots",
+    "year": 2000,
+    "kind": "Design philosophy and approach",
+    "origin": "Web minimalism reduces competing elements to focus attention on essential content and tasks. It is a decision process; an almost-empty screen is not automatically useful.",
+    "traits": [
+      "Few competing emphasis levels",
+      "Purposeful empty space",
+      "Limited palette and visible actions"
+    ],
+    "build": [
+      "Start with content and remove elements that do not serve a task.",
+      "Use spacing and type hierarchy before containers. Check that links and controls remain recognizable."
+    ],
+    "exercise": "Remove three elements from a project page. Explain whether each removal improves the task or simply makes the page emptier.",
+    "source": "https://www.nngroup.com/articles/roots-minimalism-web-design/",
+    "examples": [
+      [
+        "Minimalism: origins and usability",
+        "https://www.nngroup.com/articles/roots-minimalism-web-design/"
+      ],
+      [
+        "Google in 1998: a comparison, not a movement date",
+        "https://www.webdesignmuseum.org/gallery/google-1998"
+      ]
+    ],
+    "colors": [
+      "#ffffff",
+      "#242424",
+      "#777777"
+    ]
+  },
+  {
+    "id": "playful",
+    "name": "Playful",
+    "group": "Contemporary directions",
+    "era": "Ongoing; no single founding date",
+    "year": 2000,
+    "kind": "Art-direction label",
+    "origin": "Playful describes an intended tone rather than one historical movement. Rounded forms, irregular illustration, and unexpected color can support it, but their use should fit the subject and audience.",
+    "traits": [
+      "Friendly scale changes",
+      "Loose illustrative forms",
+      "Small surprises within stable navigation"
+    ],
+    "build": [
+      "Create one original illustrated motif and repeat its line and corner treatment.",
+      "Use motion only for specific feedback. Keep forms, labels, and reading order predictable."
+    ],
+    "exercise": "Give one ordinary form a playful heading and illustration without changing the field labels or their order.",
+    "source": "https://www.freecodecamp.org/news/design-principles-a-list-of-the-principles-of-design/",
+    "examples": [
+      [
+        "Design principles for arranging elements",
+        "https://www.freecodecamp.org/news/design-principles-a-list-of-the-principles-of-design/"
+      ]
+    ],
+    "colors": [
+      "#ffe78b",
+      "#282345",
+      "#df4c7d"
+    ]
+  },
+  {
+    "id": "dramatic",
+    "name": "Dramatic / Cinematic",
+    "group": "Contemporary directions",
+    "era": "2000s rich-media sites onward",
+    "year": 2002,
+    "kind": "Art-direction label",
+    "origin": "Cinematic sites use composition and timed reveals to establish atmosphere. Film-promotion sites made this especially visible during the Flash era. The drama comes from coordinated assets and pacing.",
+    "traits": [
+      "Dominant atmospheric images",
+      "Strong light-dark separation",
+      "Transitions arranged as scenes"
+    ],
+    "build": [
+      "Prepare separate image, title, and foreground layers. Animate a short sequence with CSS or a JavaScript timeline.",
+      "Use user-controlled audio and compressed video only where they add meaning. Provide a reduced-motion presentation."
+    ],
+    "exercise": "Storyboard an entrance in three still frames before writing animation code.",
+    "source": "https://www.webdesignmuseum.org/gallery/troy-2004",
+    "examples": [
+      [
+        "Troy, 2004",
+        "https://www.webdesignmuseum.org/gallery/troy-2004"
+      ],
+      [
+        "Douglas Arthur, 2002",
+        "https://www.webdesignmuseum.org/flash-websites/douglas-arthur-2002"
+      ]
+    ],
+    "colors": [
+      "#101820",
+      "#f0e3c6",
+      "#c19c57"
+    ]
+  },
+  {
+    "id": "luxury",
+    "name": "Luxury",
+    "group": "Contemporary directions",
+    "era": "Ongoing branding approach",
+    "year": 2000,
+    "kind": "Art-direction label",
+    "origin": "Luxury communicates a desired perception, not a single historic style. Photography, production quality, restraint, or ornament may all contribute. Black and gold alone do not establish it.",
+    "traits": [
+      "Deliberate spacing and material detail",
+      "Restrained competing accents",
+      "Careful image and type treatment"
+    ],
+    "build": [
+      "Choose a material and photographic direction before choosing decorative effects.",
+      "Use exact alignment, consistent type roles, and a small accent system. Test fine borders and light type for contrast."
+    ],
+    "exercise": "Design the same project introduction using light and dark backgrounds. Keep the imagery and hierarchy equally deliberate.",
+    "source": "https://styleshift.design/styles/dark-luxury",
+    "examples": [
+      [
+        "Luxury as a contemporary visual direction",
+        "https://styleshift.design/styles/dark-luxury"
+      ]
+    ],
+    "colors": [
+      "#1d1d1b",
+      "#eee6d5",
+      "#b89d63"
+    ]
+  },
+  {
+    "id": "nordic",
+    "name": "Nordic Minimal",
+    "group": "Contemporary directions",
+    "era": "20th-century influences; contemporary web interpretation",
+    "year": 1950,
+    "kind": "Regional influence and modern label",
+    "origin": "Nordic-inspired digital design borrows ideas of practical simplicity and material warmth. It is a broad interpretation of several design traditions, not a uniform Scandinavian rulebook.",
+    "traits": [
+      "Quiet color relationships",
+      "Practical structure",
+      "Warm or natural material cues"
+    ],
+    "build": [
+      "Use clear typography, a modest spacing scale, and original or licensed material photography.",
+      "Avoid filling every surface with decoration; let content and useful controls establish the structure."
+    ],
+    "exercise": "Build a reading panel with one photograph and no decorative container. Compare warm and cool neutrals.",
+    "source": "https://styleshift.design/styles/nordic",
+    "examples": [
+      [
+        "Nordic Minimal: principles and interpretation",
+        "https://styleshift.design/styles/nordic"
+      ]
+    ],
+    "colors": [
+      "#edf1eb",
+      "#2e413b",
+      "#6c8e7c"
+    ]
+  },
+  {
+    "id": "collage",
+    "name": "Collage",
+    "group": "Contemporary directions",
+    "era": "20th-century art roots; 1990s–2000s web use",
+    "year": 1910,
+    "kind": "Image-making technique",
+    "origin": "Collage combines separate visual fragments into a new composition. On the web it can mix photography, scans, illustration, and lettering while keeping links and text independent.",
+    "traits": [
+      "Cut edges and visible layering",
+      "Mixed image scales",
+      "Overlaps with intentional focal points"
+    ],
+    "build": [
+      "Mask original or licensed source images in an editor. Export fragments with transparency.",
+      "Position fragments in a responsive composition; keep essential copy as HTML and preserve a simple reading order."
+    ],
+    "exercise": "Combine three original photographs and one paper texture. Keep a consistent light direction or deliberately explain its absence.",
+    "source": "https://www.webdesignmuseum.org/all-websites/the-kasander-film-company-2002",
+    "examples": [
+      [
+        "Kasander, 2002",
+        "https://www.webdesignmuseum.org/all-websites/the-kasander-film-company-2002"
+      ],
+      [
+        "Layer-mask tutorial",
+        "https://www.gimp.org/tutorials/community/Layer_Masks/"
+      ]
+    ],
+    "colors": [
+      "#f4dbc8",
+      "#2e2926",
+      "#ab4435"
+    ]
+  },
+  {
+    "id": "cottagecore",
+    "name": "Cottagecore",
+    "group": "Contemporary directions",
+    "era": "2010s–2020s online visibility",
+    "year": 2015,
+    "kind": "Internet aesthetic",
+    "origin": "Cottagecore draws on idealized rural life and handmade domestic imagery. Its contemporary online expression references older craft and pastoral traditions rather than reproducing one period.",
+    "traits": [
+      "Botanical or handmade motifs",
+      "Soft material texture",
+      "Gentle, informal compositions"
+    ],
+    "build": [
+      "Draw original botanical dividers and photograph natural materials.",
+      "Use a small repeating texture beneath a clear reading surface, and test patterned areas behind text."
+    ],
+    "exercise": "Create one botanical divider and repeat it across a page without turning every section into an illustrated frame.",
+    "source": "https://styleshift.design/styles/cottagecore",
+    "examples": [
+      [
+        "Cottagecore: context and vocabulary",
+        "https://styleshift.design/styles/cottagecore"
+      ]
+    ],
+    "colors": [
+      "#f3eddb",
+      "#3b4f37",
+      "#b38569"
+    ]
+  },
+  {
+    "id": "early-web",
+    "name": "Early web",
+    "group": "Web eras",
+    "era": "1991–1999",
+    "year": 1991,
+    "kind": "Period of web development",
+    "origin": "Early websites were shaped by available browsers, network speeds, and HTML capabilities. Their plain documents, image links, and dense directories span many looks rather than one universal style.",
+    "traits": [
+      "Underlined text links",
+      "Default-looking controls and compact layouts",
+      "Small images and repeated backgrounds"
+    ],
+    "build": [
+      "Use semantic HTML first, then deliberate borders and simple tiled graphics.",
+      "Keep the historical appearance while retaining keyboard access, responsive widths, and readable modern text sizes."
+    ],
+    "exercise": "Make a small directory page that works without JavaScript. Give every link a meaningful label.",
+    "source": "https://www.webdesignmuseum.org/early-websites",
+    "examples": [
+      [
+        "Early websites, 1991–1995",
+        "https://www.webdesignmuseum.org/early-websites"
+      ],
+      [
+        "Google, 1998",
+        "https://www.webdesignmuseum.org/gallery/google-1998"
+      ],
+      [
+        "GeoCities neighborhoods",
+        "https://www.webdesignmuseum.org/exhibitions/geocities-neighborhoods"
+      ]
+    ],
+    "colors": [
+      "#d4d4d4",
+      "#151515",
+      "#0000a0"
+    ]
+  },
+  {
+    "id": "terminal",
+    "name": "Terminal",
+    "group": "Web eras",
+    "era": "Earlier computing roots; ongoing revival",
+    "year": 1970,
+    "kind": "Computing interface and visual reference",
+    "origin": "Terminal-inspired sites borrow text-based computing conventions. A green-on-dark screen is one reference, not the only historical terminal appearance. Clarity and useful feedback matter more than imitation.",
+    "traits": [
+      "Monospaced text",
+      "Explicit prompts and status lines",
+      "Limited color with clear alignment"
+    ],
+    "build": [
+      "Use real text, semantic links, and a system monospace stack.",
+      "Make any command interface optional and discoverable. Avoid fake error messages or motion that obstructs reading."
+    ],
+    "exercise": "Present your projects as a readable text directory. Make every destination accessible without typing a command.",
+    "source": "https://www.computerhistory.org/revolution/input-output/14",
+    "examples": [
+      [
+        "Computing input and output history",
+        "https://www.computerhistory.org/revolution/input-output/14"
+      ],
+      [
+        "Web history timeline",
+        "https://www.webdesignmuseum.org/web-design-history"
+      ]
+    ],
+    "colors": [
+      "#0b1c12",
+      "#b8efc2",
+      "#6ac987"
+    ]
+  },
+  {
+    "id": "pixel",
+    "name": "Pixel design",
+    "group": "Web eras",
+    "era": "1990s–2000s web visibility",
+    "year": 1996,
+    "kind": "Graphic technique",
+    "origin": "Pixel-based graphic styles turn the image grid into a visible part of the design. Small icons and tightly controlled details were common in parts of the early web, alongside many non-pixel styles.",
+    "traits": [
+      "Hard-edged silhouettes",
+      "Limited palettes",
+      "Details aligned to an image grid"
+    ],
+    "build": [
+      "Draw at a small native resolution and preview at the intended display size.",
+      "Scale by whole-number factors when preserving hard pixels. Keep paragraph text separate from decorative bitmap lettering."
+    ],
+    "exercise": "Draw one 24-by-24 icon with a four-color palette. Test it at its native size and twice that size.",
+    "source": "https://www.webdesignmuseum.org/exhibitions/pixel-art-in-web-design",
+    "examples": [
+      [
+        "Pixel art in web design, 1996–2005",
+        "https://www.webdesignmuseum.org/exhibitions/pixel-art-in-web-design"
+      ]
+    ],
+    "colors": [
+      "#e8eef2",
+      "#213644",
+      "#468b97"
+    ]
+  },
+  {
+    "id": "y2k",
+    "name": "Y2K",
+    "group": "Web eras",
+    "era": "Approximately 1996–2005",
+    "year": 1998,
+    "kind": "Period aesthetic",
+    "origin": "Y2K design reflects overlapping visions of a digital future around the millennium. Some sites used metallic surfaces and technical type; others were colorful, playful, and translucent.",
+    "traits": [
+      "Chrome-like highlights and glossy surfaces",
+      "Capsules, rings, and technical details",
+      "Layered graphics and assertive color"
+    ],
+    "build": [
+      "Build precise shapes as SVG and create metallic treatments through gradients or painted assets.",
+      "Export decorative graphics independently from labels and links. Low resolution alone does not create the aesthetic."
+    ],
+    "exercise": "Create a capsule navigation button using three lighting bands, then make its normal and pressed states.",
+    "source": "https://www.webdesignmuseum.org/exhibitions/y2k-aesthetic-in-web-design",
+    "examples": [
+      [
+        "Y2K historical collection",
+        "https://www.webdesignmuseum.org/exhibitions/y2k-aesthetic-in-web-design"
+      ],
+      [
+        "Kasander, 2002",
+        "https://www.webdesignmuseum.org/all-websites/the-kasander-film-company-2002"
+      ]
+    ],
+    "colors": [
+      "#dbe6f3",
+      "#23364e",
+      "#508bde"
+    ]
+  },
+  {
+    "id": "grunge",
+    "name": "Grunge",
+    "group": "Web eras",
+    "era": "1990s–2000s web visibility",
+    "year": 1996,
+    "kind": "Graphic aesthetic",
+    "origin": "Grunge web graphics use roughness and distressed surfaces as expressive material. The look connects to wider print and music cultures; its web examples include many different levels of density.",
+    "traits": [
+      "Torn edges and worn textures",
+      "Imperfect alignment and layered type",
+      "Muted grounds with emphatic accents"
+    ],
+    "build": [
+      "Create masks from original paper scans, marks, or painted textures.",
+      "Keep a stable content layout beneath the rough surface. Test texture behind small labels and links."
+    ],
+    "exercise": "Make one heading treatment from an original paper scan. Compare clean and distressed versions at phone size.",
+    "source": "https://www.webdesignmuseum.org/exhibitions/grunge-in-web-design",
+    "examples": [
+      [
+        "Grunge historical collection",
+        "https://www.webdesignmuseum.org/exhibitions/grunge-in-web-design"
+      ],
+      [
+        "Adidas, 1996",
+        "https://www.webdesignmuseum.org/gallery/adidas-1996"
+      ],
+      [
+        "Grunge techniques, 2008",
+        "https://www.smashingmagazine.com/2008/01/grunge-style-in-modern-web-design/"
+      ]
+    ],
+    "colors": [
+      "#dbd1b5",
+      "#292924",
+      "#aa3d29"
+    ]
+  },
+  {
+    "id": "flash",
+    "name": "Flash-era worlds",
+    "group": "Web eras",
+    "era": "Late 1990s–2000s",
+    "year": 1998,
+    "kind": "Technology-enabled approach",
+    "origin": "Flash was a multimedia platform, not a visual style. Its stage, timeline, and scripting encouraged coordinated animation, unusual navigation, sound, and scene-based websites.",
+    "traits": [
+      "Scenes instead of ordinary page changes",
+      "Coordinated movement and sound",
+      "Custom illustrated or rendered navigation"
+    ],
+    "build": [
+      "Storyboard an interaction and prepare separate background, object, label, and effect layers.",
+      "Rebuild behavior using HTML, SVG, Canvas, or WebGL as needed. Sequence sound after user interaction and include reduced-motion alternatives."
+    ],
+    "exercise": "Storyboard a menu entrance, a selection, and a transition. Describe which objects move in each frame.",
+    "source": "https://www.webdesignmuseum.org/flash-websites",
+    "examples": [
+      [
+        "Douglas Arthur, 2002",
+        "https://www.webdesignmuseum.org/flash-websites/douglas-arthur-2002"
+      ],
+      [
+        "Troy, 2004",
+        "https://www.webdesignmuseum.org/gallery/troy-2004"
+      ],
+      [
+        "Kasander, 2002",
+        "https://www.webdesignmuseum.org/all-websites/the-kasander-film-company-2002"
+      ]
+    ],
+    "colors": [
+      "#d8eceb",
+      "#163e41",
+      "#72c1bb"
+    ]
+  },
+  {
+    "id": "skeuomorphic",
+    "name": "Skeuomorphism",
+    "group": "Web eras",
+    "era": "Earlier GUI roots; 2000s prominence",
+    "year": 2000,
+    "kind": "Representational technique",
+    "origin": "Skeuomorphic interfaces reference familiar objects or materials to communicate use. A leather-bound notebook or physical-looking switch is more specific than a button that merely has a shadow.",
+    "traits": [
+      "Recognizable physical materials",
+      "Controls with apparent depth",
+      "Object metaphors tied to function"
+    ],
+    "build": [
+      "Draw or render the material, frame, and control states separately.",
+      "Keep controls as real HTML elements over the artwork. Use consistent lighting and make the pressed state physically plausible."
+    ],
+    "exercise": "Design an original wooden control panel with one blue button. Show its normal, focused, and pressed states.",
+    "source": "https://webflow.com/web-design-art-history",
+    "examples": [
+      [
+        "Apple, 2001: material-looking controls",
+        "https://www.webdesignmuseum.org/gallery/apple-2001"
+      ],
+      [
+        "Art history, realism, and interfaces",
+        "https://webflow.com/web-design-art-history"
+      ]
+    ],
+    "colors": [
+      "#c4a578",
+      "#3f3025",
+      "#4c8db6"
+    ]
+  },
+  {
+    "id": "aero",
+    "name": "Frutiger Aero",
+    "group": "Web eras",
+    "era": "Mid-2000s–early 2010s associations",
+    "year": 2005,
+    "kind": "Retrospective aesthetic label",
+    "origin": "Frutiger Aero is a later name for a cluster of optimistic, glossy digital imagery associated with this period. It overlaps with some Y2K traits but often emphasizes natural imagery and clean technological surfaces.",
+    "traits": [
+      "Gloss and translucency",
+      "Sky, water, and natural imagery",
+      "Bright blue-green palettes"
+    ],
+    "build": [
+      "Combine an original landscape image with clear glossy controls and restrained highlights.",
+      "Layer a translucent surface above the image, keeping essential text on sufficiently solid backgrounds."
+    ],
+    "exercise": "Make a glossy button on both a plain ground and a sky image. Compare whether the label remains readable.",
+    "source": "https://styleshift.design/styles/y2k-aero",
+    "examples": [
+      [
+        "Y2K / Aero: a combined teaching interpretation",
+        "https://styleshift.design/styles/y2k-aero"
+      ],
+      [
+        "Microsoft website evolution",
+        "https://www.webdesignmuseum.org/exhibitions/microsoft-windows-websites"
+      ]
+    ],
+    "colors": [
+      "#d4f1ec",
+      "#195879",
+      "#50aabd"
+    ]
+  },
+  {
+    "id": "synthwave",
+    "name": "Synthwave",
+    "group": "Digital styles",
+    "era": "2000s onward; 1980s references",
+    "year": 2005,
+    "kind": "Music-linked retro aesthetic",
+    "origin": "Synthwave looks back at imagined electronic futures, borrowing from 1980s media and later music culture. It is a revival aesthetic, not a faithful copy of what every 1980s interface looked like.",
+    "traits": [
+      "Neon accents on dark grounds",
+      "Perspective grids and glowing horizons",
+      "Retro display lettering"
+    ],
+    "build": [
+      "Draw a perspective grid in SVG and use a small number of glow layers.",
+      "Create the horizon and lettering as separate assets. Keep functional text bright and free of heavy blur."
+    ],
+    "exercise": "Create a horizon graphic with a grid and one light source. Make a readable navigation treatment beside it.",
+    "source": "https://styleshift.design/styles/synthwave",
+    "examples": [
+      [
+        "Synthwave origins and visual vocabulary",
+        "https://styleshift.design/styles/synthwave"
+      ]
+    ],
+    "colors": [
+      "#1d123a",
+      "#f1dcff",
+      "#ed64b8"
+    ]
+  },
+  {
+    "id": "vaporwave",
+    "name": "Vaporwave",
+    "group": "Digital styles",
+    "era": "2010s online culture",
+    "year": 2010,
+    "kind": "Music-linked internet aesthetic",
+    "origin": "Vaporwave remixes consumer imagery, digital nostalgia, and music culture. Pastel palettes and classical fragments are familiar cues, but the broader aesthetic is about juxtaposition and reinterpretation.",
+    "traits": [
+      "Pastel gradients and nostalgic imagery",
+      "Contrasting digital and classical references",
+      "Deliberately artificial compositions"
+    ],
+    "build": [
+      "Combine your own still-life or licensed imagery with geometric digital backdrops.",
+      "Use layered images and controlled gradients. Keep decorative lettering distinct from essential interface labels."
+    ],
+    "exercise": "Build a small still life from three original fragments. Change the context with color rather than adding more objects.",
+    "source": "https://styleshift.design/styles/vaporwave",
+    "examples": [
+      [
+        "Vaporwave context and examples",
+        "https://styleshift.design/styles/vaporwave"
+      ]
+    ],
+    "colors": [
+      "#f1cde8",
+      "#574070",
+      "#79bfc7"
+    ]
+  },
+  {
+    "id": "flat",
+    "name": "Flat design",
+    "group": "Digital styles",
+    "era": "Early 2010s breakout",
+    "year": 2011,
+    "kind": "Interface aesthetic",
+    "origin": "Flat interfaces minimize simulated material and depth. Their simplicity can clarify structure, but overly subtle controls can make interactive elements harder to recognize.",
+    "traits": [
+      "Solid color areas",
+      "Simplified icons",
+      "Hierarchy through scale, position, and contrast"
+    ],
+    "build": [
+      "Use CSS and simple SVG shapes for most surfaces.",
+      "Retain visible button boundaries, link styling, focus indicators, and clear hover or pressed feedback."
+    ],
+    "exercise": "Remove decorative depth from one control while preserving all the clues that make it identifiable as a control.",
+    "source": "https://www.nngroup.com/articles/flat-design/",
+    "examples": [
+      [
+        "Flat design: origins and usability",
+        "https://www.nngroup.com/articles/flat-design/"
+      ]
+    ],
+    "colors": [
+      "#f0f4f7",
+      "#233b50",
+      "#337fa2"
+    ]
+  },
+  {
+    "id": "material",
+    "name": "Material-inspired",
+    "group": "Digital styles",
+    "era": "Google system introduced 2014",
+    "year": 2014,
+    "kind": "Design system and influence",
+    "origin": "Material is a maintained design system, not merely a shadow recipe. The Workshop preset is an interpretation; the official system includes components, interaction rules, and multiple generations.",
+    "traits": [
+      "Layering and surface hierarchy",
+      "Consistent component behavior",
+      "Motion that explains relationships"
+    ],
+    "build": [
+      "Define surface, elevation, color, and type roles before individual components.",
+      "Use component states consistently. Study the official guidance rather than assuming every rounded card is Material."
+    ],
+    "exercise": "Create a button, field, and panel with consistent focused, disabled, and active states.",
+    "source": "https://design.google/library/material-design-eras",
+    "examples": [
+      [
+        "Material Design’s first decade",
+        "https://design.google/library/material-design-eras"
+      ],
+      [
+        "Official Material Design",
+        "https://m3.material.io/"
+      ]
+    ],
+    "colors": [
+      "#f1edf8",
+      "#372d47",
+      "#786198"
+    ]
+  },
+  {
+    "id": "brutalist",
+    "name": "Web Brutalism",
+    "group": "Digital styles",
+    "era": "2010s label; earlier web precedents",
+    "year": 2014,
+    "kind": "Web aesthetic",
+    "origin": "Digital brutalism often foregrounds raw structure and utilitarian presentation. It can reference architectural ideas, but it is not a direct translation of concrete buildings into CSS.",
+    "traits": [
+      "Exposed structure and blunt type",
+      "Obvious links",
+      "Limited decorative polish"
+    ],
+    "build": [
+      "Start with semantic HTML and intentionally simple CSS.",
+      "Retain reading order and meaningful links. Distinguish purposeful restraint from a broken or inaccessible interface."
+    ],
+    "exercise": "Present a project directory with no images or decorative containers. Make the link hierarchy unmistakable.",
+    "source": "https://www.nngroup.com/articles/brutalism-antidesign/",
+    "examples": [
+      [
+        "Brutalism and antidesign",
+        "https://www.nngroup.com/articles/brutalism-antidesign/"
+      ],
+      [
+        "Brutalist Websites collection",
+        "https://brutalistwebsites.com/"
+      ]
+    ],
+    "colors": [
+      "#ffffff",
+      "#121212",
+      "#1938bc"
+    ]
+  },
+  {
+    "id": "neobrutalist",
+    "name": "Neobrutalism",
+    "group": "Digital styles",
+    "era": "Late 2010s–2020s visibility",
+    "year": 2019,
+    "kind": "Contemporary interface aesthetic",
+    "origin": "Neobrutalism combines assertive graphics with more organized interface conventions. Its bold color blocks and hard shadows differ from the stripped-back appearance often associated with web brutalism.",
+    "traits": [
+      "Heavy outlines",
+      "Solid offset shadows",
+      "Bright, clearly separated surfaces"
+    ],
+    "build": [
+      "Use consistent border and shadow tokens in CSS.",
+      "Reserve space for shadows and focus rings so they do not collide with neighboring content. Test the layout at enlarged text sizes."
+    ],
+    "exercise": "Build one button with a solid offset shadow. Make pressing it feel like a small physical movement.",
+    "source": "https://www.nngroup.com/articles/neobrutalism/",
+    "examples": [
+      [
+        "Neobrutalism: definition and examples",
+        "https://www.nngroup.com/articles/neobrutalism/"
+      ]
+    ],
+    "colors": [
+      "#f4df88",
+      "#1e1d23",
+      "#ac83c5"
+    ]
+  },
+  {
+    "id": "neumorphism",
+    "name": "Neumorphism",
+    "group": "Digital styles",
+    "era": "Around 2019–2020 visibility",
+    "year": 2019,
+    "kind": "Surface treatment",
+    "origin": "Neumorphism makes controls seem molded from the same surface as their background. The soft appearance is recognizable, but weak boundaries can obscure which elements are interactive.",
+    "traits": [
+      "Paired light and dark shadows",
+      "Closely related surface colors",
+      "Raised and inset impressions"
+    ],
+    "build": [
+      "Use paired CSS shadows on a simple surface and build a distinct pressed state.",
+      "Add clear labels, boundaries, and focus treatment; do not rely on subtle shading alone to signal action."
+    ],
+    "exercise": "Compare a softly embossed button with a clearly outlined one in dim light and at reduced screen brightness.",
+    "source": "https://webflow.com/blog/neumorphism",
+    "examples": [
+      [
+        "Neumorphism: rise and limitations",
+        "https://webflow.com/blog/neumorphism"
+      ],
+      [
+        "Surface vocabulary and examples",
+        "https://styleshift.design/styles/neomorphism"
+      ]
+    ],
+    "colors": [
+      "#e0e5e8",
+      "#3a4b57",
+      "#9eaebc"
+    ]
+  },
+  {
+    "id": "glass",
+    "name": "Glassmorphism",
+    "group": "Digital styles",
+    "era": "2020s label; earlier translucent UI precedents",
+    "year": 2020,
+    "kind": "Surface treatment",
+    "origin": "Glassmorphism uses translucent, blurred surfaces to imply depth. Earlier interfaces used related effects; the modern label describes a treatment that can coexist with many layout styles.",
+    "traits": [
+      "Blurred backdrop",
+      "Translucent surface layers",
+      "Fine edges and controlled highlights"
+    ],
+    "build": [
+      "Use backdrop-filter with a sufficiently opaque background and a solid fallback.",
+      "Test text over every part of the underlying image. Keep menus and reading panels opaque when transparency hurts clarity."
+    ],
+    "exercise": "Place one panel over two different backgrounds. Increase its opacity until both versions remain easy to read.",
+    "source": "https://www.nngroup.com/articles/glassmorphism/",
+    "examples": [
+      [
+        "Glassmorphism: examples and best practices",
+        "https://www.nngroup.com/articles/glassmorphism/"
+      ]
+    ],
+    "colors": [
+      "#233b62",
+      "#edf5ff",
+      "#85c7d6"
+    ]
+  }
+]
